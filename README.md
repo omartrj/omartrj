@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trejarchs
-- 📚 I'm currently studying Software Engineering @ UNIPG
+- 📚 I'm currently studying Computer Engineering and Data Science @ UNIPG
 
 
 <!---
