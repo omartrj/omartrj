@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trejarchs
+- 👋 Hi, I’m @omartrj
 - 📚 I'm currently studying Computer Engineering and Data Science @ UNIPG
 
 
